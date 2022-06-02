@@ -5,8 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screen Recording
 
-https://user-images.githubusercontent.com/22479360/171655342-6b88cd7f-a86a-4a56-bbbe-d1c8ddd55b43.mov
-
+https://user-images.githubusercontent.com/22479360/171657261-9e3290a6-eaa9-44e2-a43c-54e5d8337b74.mov
+ 
 
 ## Available Scripts
 
