@@ -7,8 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://user-images.githubusercontent.com/22479360/171655342-6b88cd7f-a86a-4a56-bbbe-d1c8ddd55b43.mov
 
-<video src="https://user-images.githubusercontent.com/22479360/171655342-6b88cd7f-a86a-4a56-bbbe-d1c8ddd55b43.mov" alt="video screen">
-
 
 ## Available Scripts
 
