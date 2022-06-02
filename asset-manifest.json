@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Animations-wit-Framer-Motion/static/css/main.a45dfb19.css",
+    "main.js": "/Animations-wit-Framer-Motion/static/js/main.22c9af95.js",
+    "static/media/planet-2.svg": "/Animations-wit-Framer-Motion/static/media/planet-2.114cdca274307df1d3bbf9dd4f72a7a9.svg",
+    "static/media/planet-3.svg": "/Animations-wit-Framer-Motion/static/media/planet-3.ed08a7ab220d3b894f8386f098839fb9.svg",
+    "static/media/planet-4.svg": "/Animations-wit-Framer-Motion/static/media/planet-4.32709d8a1065ce7028d2342c904d42ac.svg",
+    "static/media/planet.svg": "/Animations-wit-Framer-Motion/static/media/planet.aec32de649fac52e542f5677705aa30a.svg",
+    "index.html": "/Animations-wit-Framer-Motion/index.html",
+    "main.a45dfb19.css.map": "/Animations-wit-Framer-Motion/static/css/main.a45dfb19.css.map",
+    "main.22c9af95.js.map": "/Animations-wit-Framer-Motion/static/js/main.22c9af95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a45dfb19.css",
+    "static/js/main.22c9af95.js"
+  ]
+}
